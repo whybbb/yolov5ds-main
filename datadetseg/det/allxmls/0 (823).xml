@@ -1,0 +1,38 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>0 (823).jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\datadetseg\det\allimages\0 (823).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3016</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clothes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>789</ymin>
+			<xmax>1306</xmax>
+			<ymax>3172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>clothes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1584</xmin>
+			<ymin>824</ymin>
+			<xmax>2480</xmax>
+			<ymax>3263</ymax>
+		</bndbox>
+	</object>
+</annotation>

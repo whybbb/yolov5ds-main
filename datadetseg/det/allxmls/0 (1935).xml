@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>0 (1935).jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\datadetseg\det\allimages\0 (1935).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>41</ymin>
+			<xmax>418</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>
